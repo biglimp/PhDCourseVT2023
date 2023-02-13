@@ -7,5 +7,8 @@ Department of Earth Sciences at University of Gothenburg gives a third cycle cou
 
 This is mostly an on-campus course. The course do not require that you have your own computer but it is recommened. The course is based on Windows 10. Other operating systems such as Linux and iOS is possible but not recommend. 
 
+# Schedule
+https://cloud.timeedit.net/gu/web/webres_emp/riqYoy7QY5vZ70QZY75276QQ600qwXoZ2ZQ1595Q6.html
+
 # Course evaluation
 After you attended the course, please fill in the course evaluation: **LINK WILL BE PRESENTED LATER**
