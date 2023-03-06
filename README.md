@@ -10,5 +10,9 @@ This is mostly an on-campus course. The course do not require that you have your
 # Schedule
 https://cloud.timeedit.net/gu/web/schema/ri1557Qn6Z90g0QQ0wZQ1Qx7005u52wZX2YYvyZ2Y.html
 
+# Login on student computers
+Användar-id: guw71714
+Lösenord: miFy+349
+
 # Course evaluation
 After you attended the course, please fill in the course evaluation: https://sunet.artologik.net/gu/Survey/23224
