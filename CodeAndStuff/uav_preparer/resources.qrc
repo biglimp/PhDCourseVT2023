@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/uav_preparer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
